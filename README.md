@@ -20,4 +20,4 @@ Somos um time de pessoas incríveis apaixonadas por fintech e arquiteturas serve
 - **Assine nossa [newsletter](https://base39.com.br)**: mantenha-se atualizado sobre o status do projeto.
 
 ## 📑 Como começar
-Você está se perguntando o que fazemos? Então não procure mais! Aqui estão algumas ótimas informações na [Documentação da API](https://developers.base39.com.br) para visitar.
+Você está se perguntando o que fazemos? Então não procure mais! Aqui estão algumas ótimas informações na [Documentação da API](https://developers.base39.com.br) para conhecer.
