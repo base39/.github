@@ -1,4 +1,4 @@
-[![Base39 - Costruindo o futuro da infraestrutura de crédito](./assets/banner-github.png)](https://base39.com.br)
+[![Base39 - Costruindo o futuro da infraestrutura de crédito](./assets/github-banner.png)](https://base39.com.br)
 
 [![Slack](https://img.shields.io/badge/Slack-@base39.slack.com-yellow.svg)](https://base39.slack.com)
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-@base39-lightgray.svg)](https://www.linkedin.com/company/base39)
