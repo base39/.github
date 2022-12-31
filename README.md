@@ -1,8 +1,7 @@
 [![Base39 - Costruindo o futuro da infraestrutura de crédito](./assets/github-banner.png)](https://base39.com.br)
 
-[![Slack](https://img.shields.io/badge/Slack-@base39.slack.com-yellow.svg)](https://base39.slack.com)
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-@base39-lightgray.svg)](https://www.linkedin.com/company/base39)
-[![YouTube](https://img.shields.io/badge/YouTube-@base39-red.svg)](https://www.youtube.com/@base39_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@base39-blue.svg)](https://www.linkedin.com/company/base39)
+[![Instagram](https://img.shields.io/badge/Instagram-@base39-yellow.svg)](https://instagram.com/base39_)
 
 ## ✨ Bem-vindo
 
