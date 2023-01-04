@@ -9,7 +9,7 @@ Construímos infraestrutura de crédito para que nossos clientes não percam tem
 
 Estamos moldando o futuro das fintechs de crédito, não importa se é uma startup ou um grande banco.
 
-Acompanhe nosso [roadmap públic](https://roadmap.base39.com.br) ✨ e sinta-se à vontade para compartilhar suas sugestões. Ou melhor ainda, junte-se ao nosso time!
+Acompanhe nosso [roadmap público](https://roadmap.base39.com.br) ✨ e sinta-se à vontade para compartilhar suas sugestões. Ou melhor ainda, junte-se ao nosso time!
 
 ## 🌎 Faça parte da Base39
 
